@@ -1,0 +1,16 @@
+.encabezado a {
+  display: none;
+}
+#inicio {
+  height: 50%;
+}
+.contenido {
+  flex-direction: column;
+  height: 50%;
+  align-items: center;
+}
+
+.contenido2 {
+  flex-direction: column;
+  height: 50%;
+}
