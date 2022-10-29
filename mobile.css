@@ -2,18 +2,26 @@
   display: none;
 }
 #inicio {
+  flex-direction: column;
   height: 50%;
+  align-items: center;
+  text-align: center;
+}
+.imagen {
+  width: 150px;
 }
 .contenido {
   flex-direction: column;
   height: 50%;
   align-items: center;
   text-align: center;
-  margin: 15px;
-  padding: 20px;
 }
 
 .contenido2 {
   flex-direction: column;
   height: 50%;
+}
+
+.imag2 {
+  width: 300px;
 }

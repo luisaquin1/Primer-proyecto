@@ -1,13 +1,24 @@
 #inicio {
+  flex-direction: column;
   height: 50%;
+  align-items: center;
+  text-align: center;
+}
+.imagen {
+  width: 300px;
 }
 .contenido {
   flex-direction: column;
   height: 50%;
   align-items: center;
+  text-align: center;
 }
 
 .contenido2 {
   flex-direction: column;
   height: 50%;
+}
+
+.imag2 {
+  width: 500px;
 }
