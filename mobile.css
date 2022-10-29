@@ -25,3 +25,9 @@
 .imag2 {
   width: 300px;
 }
+.footer {
+  flex-direction: column;
+  height: 50%;
+  align-items: center;
+  text-align: center;
+}
