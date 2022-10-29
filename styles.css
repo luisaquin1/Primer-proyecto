@@ -62,8 +62,8 @@
   background-color: rgb(176, 219, 248);
 }
 .contenido2 {
-  display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
   align-items: center;
   height: 200px;
 }
